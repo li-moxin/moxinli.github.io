@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-My name is Moxin Li. I am a third-yead Ph.D. candidate in [NExT++ Research Center](https://www.nextcenter.org/) at School of Computing, National University of Singapore. I am fortunately advised by [Prof. Tat-Seng Chua](https://www.chuatatseng.com/). 
+My name is Moxin Li. I am a third-yead Ph.D. candidate in [NExT++ Research Center](https://www.nextcenter.org/) at School of Computing, National University of Singapore. I am fortunately advised by [Prof. Tat-Seng Chua](https://www.chuatatseng.com/) and [Prof. Fuli Feng](https://fulifeng.github.io/). I graduated from Peking University in 2020 with a bachelor's degree. 
+
 
 
 A data-driven personal website
