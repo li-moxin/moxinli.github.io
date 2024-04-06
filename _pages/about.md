@@ -10,7 +10,7 @@ redirect_from:
 
 My name is Moxin Li(李墨馨). I am a third-yead Ph.D. candidate in [NExT++ Research Center](https://www.nextcenter.org/) at School of Computing, National University of Singapore. I am fortunately advised by [Prof. Tat-Seng Chua](https://www.chuatatseng.com/) and [Prof. Fuli Feng](https://fulifeng.github.io/). I graduated from Peking University in 2020 with a bachelor's degree. 
 
-
+Contact me at `moxinli98 AT gmail.com` and `limoxin AT u.nus.edu`.
 
 Research
 ======
@@ -19,9 +19,12 @@ Like many other Jekyll-based GitHub Pages templates, academicpages makes you sep
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
 
-Site-wide configuration
+Selected Publications
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Find out more from my [Google Scholar](https://scholar.google.com/citations?user=5Yp7L3kAAAAJ&hl=zh-CN&oi=ao) page. 
+
+****
+
 
 Create content & metadata
 ------
